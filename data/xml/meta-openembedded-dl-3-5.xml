@@ -144,4 +144,5 @@
     <project name="external/yocto/github.com.sass.sassc" remote="base" path="layers/meta-openembedded-dl-3.5/git/github.com.sass.sassc.git" bare="True"/>
     <project name="external/yocto/github.com.opensvc.multipath-tools" remote="base" path="layers/meta-openembedded-dl-3.5/git/github.com.opensvc.multipath-tools.git" bare="True"/>
     <project name="external/yocto/github.com.opencontainers.runc" remote="base" path="layers/meta-openembedded-dl-3.5/git/github.com.opencontainers.runc" bare="True"/>
+    <project name="external/yocto/github.com.fujita.tgt" remote="base" path="layers/meta-openembedded-dl-3.5/git/github.com.fujita.tgt.git" bare="True"/>
     <project name="external/yocto/git.savannah.gnu.org.git.gnulib" remote="base" path="layers/meta-openembedded-dl-3.5/git/git.savannah.gnu.org.git.gnulib.git" bare="True"/>
