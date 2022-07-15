@@ -160,3 +160,4 @@
     <project name="external/yocto/git.kernel.org.pub.scm.network.nfc.neard" remote="base" path="layers/oe-core-dl-4.1/git/git.kernel.org.pub.scm.network.nfc.neard.git" bare="True"/>
     <project name="external/yocto/github.com.mirror.ncurses" remote="base" path="layers/oe-core-dl-4.1/git/github.com.mirror.ncurses.git" bare="True"/>
     <project name="external/yocto/git.yoctoproject.org.sato-icon-theme" remote="base" path="layers/oe-core-dl-4.1/git/git.yoctoproject.org.sato-icon-theme.git" bare="True"/>
+    <project name="external/yocto/gitlab.com.rossburton.picobuild" remote="base" path="layers/oe-core-dl-4.1/git/gitlab.com.rossburton.picobuild.git" bare="True"/>
