@@ -196,3 +196,4 @@
     <project name="external/yocto/github.com.fluent.fluent-logger-golang" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.fluent.fluent-logger-golang" bare="True"/>
     <project name="external/yocto/github.com.multiformats.go-multicodec" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.multiformats.go-multicodec" bare="True"/>
     <project name="external/yocto/github.com.opencontainers.runtime-tools" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.opencontainers.runtime-tools" bare="True"/>
+    <project name="external/yocto/github.com.philhofer.fwd" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.philhofer.fwd" bare="True"/>
