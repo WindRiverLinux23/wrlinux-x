@@ -185,3 +185,4 @@
     <project name="external/ovp/github.com.golang.crypto" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.golang.crypto" bare="True"/>
     <project name="external/overc/github.com.golang.net" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.golang.net" bare="True"/>
     <project name="external/yocto/github.com.golang.sync" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.golang.sync" bare="True"/>
+    <project name="external/ovp/github.com.golang.sys" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.golang.sys" bare="True"/>
