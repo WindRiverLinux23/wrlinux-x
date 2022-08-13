@@ -194,3 +194,4 @@
     <project name="external/yocto/github.com.container-orchestrated-devices.container-device-interface" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.container-orchestrated-devices.container-device-interface" bare="True"/>
     <project name="external/yocto/github.com.djherbis.times" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.djherbis.times" bare="True"/>
     <project name="external/yocto/github.com.fluent.fluent-logger-golang" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.fluent.fluent-logger-golang" bare="True"/>
+    <project name="external/yocto/github.com.multiformats.go-multicodec" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.multiformats.go-multicodec" bare="True"/>
