@@ -188,3 +188,4 @@
     <project name="external/ovp/github.com.golang.sys" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.golang.sys" bare="True"/>
     <project name="external/yocto/github.com.golang.term" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.golang.term" bare="True"/>
     <project name="external/yocto/gopkg.in.yaml.v3" remote="base" path="layers/meta-virtualization-dl-4.1/git/gopkg.in.yaml.v3" bare="True"/>
+    <project name="external/yocto/github.com.AdaLogics.go-fuzz-headers" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.AdaLogics.go-fuzz-headers" bare="True"/>
