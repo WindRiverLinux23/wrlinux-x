@@ -182,3 +182,4 @@
     <project name="external/yocto/github.com.containers.buildah" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.containers.buildah.git" bare="True"/>
     <project name="external/yocto/github.com.containerd.nydus-snapshotter" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.containerd.nydus-snapshotter" bare="True"/>
     <project name="external/yocto/github.com.fahedouch.go-logrotate" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.fahedouch.go-logrotate" bare="True"/>
+    <project name="external/ovp/github.com.golang.crypto" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.golang.crypto" bare="True"/>
