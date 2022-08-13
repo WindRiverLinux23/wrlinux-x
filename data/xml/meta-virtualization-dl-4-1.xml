@@ -191,3 +191,4 @@
     <project name="external/yocto/github.com.AdaLogics.go-fuzz-headers" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.AdaLogics.go-fuzz-headers" bare="True"/>
     <project name="external/yocto/github.com.blang.semver" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.blang.semver" bare="True"/>
     <project name="external/yocto/github.com.bmizerany.assert" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.bmizerany.assert" bare="True"/>
+    <project name="external/yocto/github.com.container-orchestrated-devices.container-device-interface" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.container-orchestrated-devices.container-device-interface" bare="True"/>
