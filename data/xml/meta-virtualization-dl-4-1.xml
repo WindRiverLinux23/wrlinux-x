@@ -202,3 +202,4 @@
     <project name="external/yocto/github.com.golang.text" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.golang.text" bare="True"/>
     <project name="external/yocto/github.com.golang.xerrors" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.golang.xerrors" bare="True"/>
     <project name="external/yocto/github.com.lukechampine.blake3" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.lukechampine.blake3" bare="True"/>
+    <project name="external/yocto/github.com.kubernetes-sigs.yaml" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.kubernetes-sigs.yaml" bare="True"/>
