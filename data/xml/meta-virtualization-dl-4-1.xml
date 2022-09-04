@@ -180,26 +180,3 @@
     <project name="external/yocto/github.com.moby.moby" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.moby.moby.git" bare="True"/>
     <project name="external/yocto/github.com.opencontainers.runc" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.opencontainers.runc" bare="True"/>
     <project name="external/yocto/github.com.containers.buildah" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.containers.buildah.git" bare="True"/>
-    <project name="external/yocto/github.com.containerd.nydus-snapshotter" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.containerd.nydus-snapshotter" bare="True"/>
-    <project name="external/yocto/github.com.fahedouch.go-logrotate" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.fahedouch.go-logrotate" bare="True"/>
-    <project name="external/ovp/github.com.golang.crypto" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.golang.crypto" bare="True"/>
-    <project name="external/overc/github.com.golang.net" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.golang.net" bare="True"/>
-    <project name="external/yocto/github.com.golang.sync" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.golang.sync" bare="True"/>
-    <project name="external/ovp/github.com.golang.sys" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.golang.sys" bare="True"/>
-    <project name="external/yocto/github.com.golang.term" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.golang.term" bare="True"/>
-    <project name="external/yocto/gopkg.in.yaml.v3" remote="base" path="layers/meta-virtualization-dl-4.1/git/gopkg.in.yaml.v3" bare="True"/>
-    <project name="external/yocto/github.com.AdaLogics.go-fuzz-headers" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.AdaLogics.go-fuzz-headers" bare="True"/>
-    <project name="external/yocto/github.com.blang.semver" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.blang.semver" bare="True"/>
-    <project name="external/yocto/github.com.bmizerany.assert" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.bmizerany.assert" bare="True"/>
-    <project name="external/yocto/github.com.container-orchestrated-devices.container-device-interface" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.container-orchestrated-devices.container-device-interface" bare="True"/>
-    <project name="external/yocto/github.com.djherbis.times" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.djherbis.times" bare="True"/>
-    <project name="external/yocto/github.com.fluent.fluent-logger-golang" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.fluent.fluent-logger-golang" bare="True"/>
-    <project name="external/yocto/github.com.multiformats.go-multicodec" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.multiformats.go-multicodec" bare="True"/>
-    <project name="external/yocto/github.com.opencontainers.runtime-tools" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.opencontainers.runtime-tools" bare="True"/>
-    <project name="external/yocto/github.com.philhofer.fwd" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.philhofer.fwd" bare="True"/>
-    <project name="external/yocto/github.com.spaolacci.murmur3" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.spaolacci.murmur3" bare="True"/>
-    <project name="external/yocto/github.com.tinylib.msgp" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.tinylib.msgp" bare="True"/>
-    <project name="external/yocto/github.com.golang.text" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.golang.text" bare="True"/>
-    <project name="external/yocto/github.com.golang.xerrors" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.golang.xerrors" bare="True"/>
-    <project name="external/yocto/github.com.lukechampine.blake3" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.lukechampine.blake3" bare="True"/>
-    <project name="external/yocto/github.com.kubernetes-sigs.yaml" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.kubernetes-sigs.yaml" bare="True"/>
