@@ -149,3 +149,4 @@
     <project name="external/yocto/github.com.denix0.devmem2" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.denix0.devmem2.git" bare="True"/>
     <project name="external/yocto/github.com.libbpf.libbpf" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.libbpf.libbpf.git" bare="True"/>
     <project name="external/yocto/github.com.ipmitool.ipmitool" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.ipmitool.ipmitool" bare="True"/>
+    <project name="external/yocto/github.com.stedolan.jq" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.stedolan.jq.git" bare="True"/>
