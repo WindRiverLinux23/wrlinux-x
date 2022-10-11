@@ -151,3 +151,4 @@
     <project name="external/yocto/github.com.stedolan.jq" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.stedolan.jq.git" bare="True"/>
     <project name="external/yocto/github.com.libnet.libnet" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.libnet.libnet.git" bare="True"/>
     <project name="external/yocto/git.linuxtv.org.v4l-utils" remote="base" path="layers/meta-openembedded-dl-4.1/git/git.linuxtv.org.v4l-utils.git" bare="True"/>
+    <project name="external/yocto/gitlab.freedesktop.org.xorg.driver.xf86-video-ati" remote="base" path="layers/meta-openembedded-dl-4.1/git/gitlab.freedesktop.org.xorg.driver.xf86-video-ati.git" bare="True"/>
