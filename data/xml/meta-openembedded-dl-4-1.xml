@@ -141,3 +141,4 @@
     <project name="external/yocto/gitlab.freedesktop.org.xorg.driver.xf86-video-ati" remote="base" path="layers/meta-openembedded-dl-4.1/git/gitlab.freedesktop.org.xorg.driver.xf86-video-ati.git" bare="True"/>
     <project name="external/yocto/github.com.blueman-project.blueman" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.blueman-project.blueman.git" bare="True"/>
     <project name="external/yocto/github.com.ipmitool.ipmitool" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.ipmitool.ipmitool" bare="True"/>
+    <project name="external/yocto/github.com.FRRouting.frr" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.FRRouting.frr.git" bare="True"/>
