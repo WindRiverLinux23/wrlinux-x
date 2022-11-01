@@ -143,3 +143,11 @@
     <project name="external/yocto/github.com.ipmitool.ipmitool" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.ipmitool.ipmitool" bare="True"/>
     <project name="external/yocto/github.com.FRRouting.frr" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.FRRouting.frr.git" bare="True"/>
     <project name="external/yocto/salsa.debian.org.debian.ifenslave" remote="base" path="layers/meta-openembedded-dl-4.1/git/salsa.debian.org.debian.ifenslave.git" bare="True"/>
+    <project name="external/yocto/github.com.grpc.grpc" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.grpc.grpc.git" bare="True"/>
+    <project name="external/yocto/github.com.google.bloaty" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.google.bloaty.git" bare="True"/>
+    <project name="external/yocto/github.com.envoyproxy.data-plane-api" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.envoyproxy.data-plane-api.git" bare="True"/>
+    <project name="external/yocto/github.com.census-instrumentation.opencensus-proto" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.census-instrumentation.opencensus-proto.git" bare="True"/>
+    <project name="external/yocto/github.com.open-telemetry.opentelemetry-proto" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.open-telemetry.opentelemetry-proto.git" bare="True"/>
+    <project name="external/yocto/github.com.envoyproxy.protoc-gen-validate" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.envoyproxy.protoc-gen-validate.git" bare="True"/>
+    <project name="external/yocto/github.com.cncf.xds" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.cncf.xds.git" bare="True"/>
+    <project name="external/yocto/github.com.madler.zlib" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.madler.zlib.git" bare="True"/>
