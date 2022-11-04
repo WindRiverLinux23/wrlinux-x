@@ -1231,6 +1231,9 @@ class Setup():
             path = project.attrib['path']
             if path:
                 basename = os.path.basename(path)
+                # Handle foo_repo and foo_repo.git as the same repo
+                if basename.endswith('.git'):
+                    basename = basename[:-4]
                 if basename in default_xml_dict:
                     default_xml_dict[basename].append(path)
                 else:
