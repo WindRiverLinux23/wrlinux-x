@@ -153,5 +153,4 @@
     <project name="external/yocto/github.com.aquynh.capstone" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.aquynh.capstone.git" bare="True"/>
     <project name="external/yocto/github.com.nico.demumble" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.nico.demumble.git" bare="True"/>
     <project name="external/yocto/github.com.google.boringssl" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.google.boringssl.git" bare="True"/>
-    <project name="external/yocto/github.com.googleapis.googleapis" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.googleapis.googleapis" bare="True"/>
-    <project name="external/yocto/github.com.libuv.libuv" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.libuv.libuv.git" bare="True"/>
+    <project name="external/yocto/github.com.googleapis.googleapis" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.googleapis.googleapis.git" bare="True"/>
