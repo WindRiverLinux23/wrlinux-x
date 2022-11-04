@@ -150,3 +150,8 @@
     <project name="external/yocto/github.com.envoyproxy.protoc-gen-validate" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.envoyproxy.protoc-gen-validate.git" bare="True"/>
     <project name="external/yocto/github.com.cncf.xds" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.cncf.xds.git" bare="True"/>
     <project name="external/yocto/github.com.madler.zlib" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.madler.zlib.git" bare="True"/>
+    <project name="external/yocto/github.com.aquynh.capstone" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.aquynh.capstone.git" bare="True"/>
+    <project name="external/yocto/github.com.nico.demumble" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.nico.demumble.git" bare="True"/>
+    <project name="external/yocto/github.com.google.boringssl" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.google.boringssl.git" bare="True"/>
+    <project name="external/yocto/github.com.googleapis.googleapis" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.googleapis.googleapis" bare="True"/>
+    <project name="external/yocto/github.com.libuv.libuv" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.libuv.libuv.git" bare="True"/>
