@@ -147,7 +147,6 @@
     <project name="external/yocto/github.com.envoyproxy.data-plane-api" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.envoyproxy.data-plane-api.git" bare="True"/>
     <project name="external/yocto/github.com.census-instrumentation.opencensus-proto" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.census-instrumentation.opencensus-proto.git" bare="True"/>
     <project name="external/yocto/github.com.open-telemetry.opentelemetry-proto" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.open-telemetry.opentelemetry-proto.git" bare="True"/>
-    <project name="external/yocto/github.com.envoyproxy.protoc-gen-validate" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.envoyproxy.protoc-gen-validate.git" bare="True"/>
     <project name="external/yocto/github.com.cncf.xds" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.cncf.xds.git" bare="True"/>
     <project name="external/yocto/github.com.madler.zlib" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.madler.zlib.git" bare="True"/>
     <project name="external/yocto/github.com.aquynh.capstone" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.aquynh.capstone.git" bare="True"/>
