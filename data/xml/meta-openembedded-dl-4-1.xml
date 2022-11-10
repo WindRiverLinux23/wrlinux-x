@@ -154,3 +154,4 @@
     <project name="external/yocto/github.com.nico.demumble" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.nico.demumble.git" bare="True"/>
     <project name="external/yocto/github.com.google.boringssl" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.google.boringssl.git" bare="True"/>
     <project name="external/yocto/github.com.googleapis.googleapis" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.googleapis.googleapis.git" bare="True"/>
+    <project name="external/yocto/github.com.libbpf.libbpf" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.libbpf.libbpf.git" bare="True"/>
