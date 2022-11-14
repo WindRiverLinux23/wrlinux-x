@@ -163,3 +163,4 @@
     <project name="external/yocto/pagure.io.xmlto" remote="base" path="layers/oe-core-dl-4.1/git/pagure.io.xmlto.git" bare="True"/>
     <project name="external/yocto/gitlab.freedesktop.org.virgl.virglrenderer" remote="base" path="layers/oe-core-dl-4.1/git/gitlab.freedesktop.org.virgl.virglrenderer.git" bare="True"/>
     <project name="external/yocto/git.yoctoproject.org.opkg-utils" remote="base" path="layers/oe-core-dl-4.1/git/git.yoctoproject.org.opkg-utils" bare="True"/>
+    <project name="external/yocto/gitlab.freedesktop.org.libinput.libinput" remote="base" path="layers/oe-core-dl-4.1/git/gitlab.freedesktop.org.libinput.libinput.git" bare="True"/>
