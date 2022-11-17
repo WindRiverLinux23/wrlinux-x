@@ -43,9 +43,9 @@ buildtools_setup() {
 		BUILDTOOLSBRANCH="${BASEBRANCH}"
 	fi
 
-        #ccache 4.7.2 need c++17 filesystem library, gcc support std::filesystem from 8.0.0
+        #ccache 4.7.2 need c++17 filesystem library, gcc support std::filesystem from 8.1.0
 	gcc_cur_ver=$(gcc -dumpfullversion -dumpversion 2>/dev/null)
-	required_ver=8.0.0
+	required_ver=8.1.0
 
 	# check whether host gcc version less than $required_ver
 	if [ ! "$(printf '%s\n' "$required_ver" "$gcc_cur_ver" | sort -V | head -n1)" = "$required_ver" ]; then
