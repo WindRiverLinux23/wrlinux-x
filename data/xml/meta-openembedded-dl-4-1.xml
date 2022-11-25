@@ -128,6 +128,8 @@
     <project name="external/yocto/github.com.wxWidgets.libjpeg-turbo" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.wxWidgets.libjpeg-turbo.git" bare="True"/>
     <project name="external/yocto/github.com.wxWidgets.libpng" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.wxWidgets.libpng.git" bare="True"/>
     <project name="external/yocto/github.com.wxWidgets.libtiff" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.wxWidgets.libtiff.git" bare="True"/>
+    <project name="external/yocto/github.com.wxWidgets.nanosvg" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.wxWidgets.nanosvg.git" bare="True"/>
+    <project name="external/yocto/github.com.wxWidgets.pcre" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.wxWidgets.pcre.git" bare="True"/>
     <project name="external/yocto/github.com.wxWidgets.zlib" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.wxWidgets.zlib.git" bare="True"/>
     <project name="external/yocto/github.com.sass.libsass" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.sass.libsass.git" bare="True"/>
     <project name="external/yocto/github.com.sass.sassc" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.sass.sassc.git" bare="True"/>
