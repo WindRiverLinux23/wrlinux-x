@@ -14,12 +14,10 @@
     <project name="external/yocto/github.com.krallin.tini" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.krallin.tini.git" bare="True"/>
     <project name="external/yocto/github.com.containerd.containerd" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.containerd.containerd" bare="True"/>
     <project name="external/yocto/github.com.docker.libnetwork" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.docker.libnetwork.git" bare="True"/>
-    <project name="external/yocto/github.com.chaos.diod" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.chaos.diod.git" bare="True"/>
     <project name="external/yocto/github.com.Irqbalance.irqbalance" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.Irqbalance.irqbalance" bare="True"/>
     <project name="external/yocto/github.com.kubernetes.kubernetes" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.kubernetes.kubernetes.git" bare="True"/>
     <project name="external/yocto/github.com.containernetworking.cni" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.containernetworking.cni.git" bare="True"/>
     <project name="external/yocto/github.com.containernetworking.plugins" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.containernetworking.plugins.git" bare="True"/>
-    <project name="external/yocto/github.com.libvmi.libvmi" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.libvmi.libvmi.git" bare="True"/>
     <project name="external/yocto/github.com.creack.pty" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.creack.pty.git" bare="True"/>
     <project name="external/yocto/github.com.kubernetes.release" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.kubernetes.release" bare="True"/>
     <project name="external/yocto/github.com.jirutka.sloci-image" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.jirutka.sloci-image.git" bare="True"/>
