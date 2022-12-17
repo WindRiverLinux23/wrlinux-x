@@ -1,4 +1,3 @@
-    <project name="external/yocto/git.code.sf.net.p.aufs.aufs-util" remote="base" path="layers/meta-openembedded-dl-4.1/git/git.code.sf.net.p.aufs.aufs-util" bare="True"/>
     <project name="external/yocto/www.aleph1.co.uk.yaffs2" remote="base" path="layers/meta-openembedded-dl-4.1/git/www.aleph1.co.uk.yaffs2" bare="True"/>
     <project name="external/yocto/git.kernel.org.pub.scm.linux.kernel.git.jaegeuk.f2fs-tools" remote="base" path="layers/meta-openembedded-dl-4.1/git/git.kernel.org.pub.scm.linux.kernel.git.jaegeuk.f2fs-tools.git" bare="True"/>
     <project name="external/yocto/github.com.engla.keybinder" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.engla.keybinder.git" bare="True"/>
@@ -8,8 +7,6 @@
     <project name="external/yocto/github.com.dugsong.libdnet" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.dugsong.libdnet.git" bare="True"/>
     <project name="external/yocto/github.com.sctp.lksctp-tools" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.sctp.lksctp-tools.git" bare="True"/>
     <project name="external/yocto/github.com.LINBIT.drbd-utils" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.LINBIT.drbd-utils" bare="True"/>
-    <project name="external/yocto/anongit.freedesktop.org.spice.spice" remote="base" path="layers/meta-openembedded-dl-4.1/git/anongit.freedesktop.org.spice.spice" bare="True"/>
-    <project name="external/yocto/anongit.freedesktop.org.spice.spice-common" remote="base" path="layers/meta-openembedded-dl-4.1/git/anongit.freedesktop.org.spice.spice-common" bare="True"/>
     <project name="external/yocto/github.com.LINBIT.drbd-headers" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.LINBIT.drbd-headers" bare="True"/>
     <project name="external/yocto/github.com.cyrusimap.cyrus-sasl" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.cyrusimap.cyrus-sasl" bare="True"/>
     <project name="external/yocto/github.com.FreeRADIUS.freeradius-server" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.FreeRADIUS.freeradius-server.git" bare="True"/>
@@ -21,14 +18,12 @@
     <project name="external/yocto/github.com.esnet.iperf" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.esnet.iperf.git" bare="True"/>
     <project name="external/yocto/github.com.grondo.edac-utils" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.grondo.edac-utils" bare="True"/>
     <project name="external/yocto/github.com.jthornber.thin-provisioning-tools" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.jthornber.thin-provisioning-tools" bare="True"/>
-    <project name="external/yocto/github.com.libgd.libgd" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.libgd.libgd.git" bare="True"/>
     <project name="external/yocto/github.com.lloyd.yajl" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.lloyd.yajl" bare="True"/>
     <project name="external/yocto/github.com.oetiker.rrdtool-1.x" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.oetiker.rrdtool-1.x.git" bare="True"/>
     <project name="external/yocto/git.kernel.org.pub.scm.utils.cpu.mce.mcelog" remote="base" path="layers/meta-openembedded-dl-4.1/git/git.kernel.org.pub.scm.utils.cpu.mce.mcelog.git" bare="True"/>
     <project name="external/yocto/github.com.rsyslog.libfastjson" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.rsyslog.libfastjson.git" bare="True"/>
     <project name="external/yocto/github.com.rsyslog.librelp" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.rsyslog.librelp.git" bare="True"/>
     <project name="external/yocto/git.0pointer.de.libatasmart" remote="base" path="layers/meta-openembedded-dl-4.1/git/git.0pointer.de.libatasmart.git" bare="True"/>
-    <project name="external/yocto/github.com.google.leveldb" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.google.leveldb.git" bare="True"/>
     <project name="external/yocto/github.com.protobuf-c.protobuf-c" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.protobuf-c.protobuf-c.git" bare="True"/>
     <project name="external/yocto/github.com.jpirko.libndp" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.jpirko.libndp" bare="True"/>
     <project name="external/yocto/git.kernel.org.pub.scm.utils.cpu.mce.mce-inject" remote="base" path="layers/meta-openembedded-dl-4.1/git/git.kernel.org.pub.scm.utils.cpu.mce.mce-inject.git" bare="True"/>
@@ -44,7 +39,6 @@
     <project name="external/yocto/github.com.gperftools.gperftools" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.gperftools.gperftools.git" bare="True"/>
     <project name="external/yocto/github.com.storaged-project.udisks" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.storaged-project.udisks.git" bare="True"/>
     <project name="external/yocto/github.com.jpirko.libteam" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.jpirko.libteam" bare="True"/>
-    <project name="external/yocto/github.com.facebook.rocksdb" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.facebook.rocksdb.git" bare="True"/>
     <project name="external/yocto/github.com.pmem.ndctl" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.pmem.ndctl.git" bare="True"/>
     <project name="external/yocto/github.com.jirka-h.haveged" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.jirka-h.haveged.git" bare="True"/>
     <project name="external/yocto/github.com.mirror.xmlrpc-c" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.mirror.xmlrpc-c.git" bare="True"/>
@@ -94,7 +88,6 @@
     <project name="external/yocto/github.com.opencv.opencv_3rdparty" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.opencv.opencv_3rdparty.git" bare="True"/>
     <project name="external/yocto/github.com.WeChatCV.opencv_3rdparty" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.WeChatCV.opencv_3rdparty.git" bare="True"/>
     <project name="external/yocto/github.com.linux-audit.audit-userspace" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.linux-audit.audit-userspace.git" bare="True"/>
-    <project name="external/yocto/github.com.google.snappy" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.google.snappy.git" bare="True"/>
     <project name="external/yocto/github.com.google.benchmark" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.google.benchmark.git" bare="True"/>
     <project name="external/yocto/github.com.bats-core.bats-core" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.bats-core.bats-core.git" bare="True"/>
     <project name="external/yocto/github.com.yasm.yasm" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.yasm.yasm.git" bare="True"/>
@@ -114,7 +107,6 @@
     <project name="external/yocto/github.com.inotify-tools.inotify-tools" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.inotify-tools.inotify-tools" bare="True"/>
     <project name="external/yocto/github.com.bluesabre.menulibre" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.bluesabre.menulibre.git" bare="True"/>
     <project name="external/yocto/git.kernel.org.pub.scm.network.bridge.bridge-utils" remote="base" path="layers/meta-openembedded-dl-4.1/git/git.kernel.org.pub.scm.network.bridge.bridge-utils.git" bare="True"/>
-    <project name="external/yocto/gitlab.freedesktop.org.spice.spice-protocol" remote="base" path="layers/meta-openembedded-dl-4.1/git/gitlab.freedesktop.org.spice.spice-protocol.git" bare="True"/>
     <project name="external/yocto/github.com.npat-efault.picocom" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.npat-efault.picocom" bare="True"/>
     <project name="external/yocto/github.com.USCiLab.cereal" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.USCiLab.cereal.git" bare="True"/>
     <project name="external/yocto/github.com.tianon.gosu" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.tianon.gosu.git" bare="True"/>
