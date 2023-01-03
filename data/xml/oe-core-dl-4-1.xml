@@ -165,3 +165,4 @@
     <project name="external/yocto/git.yoctoproject.org.opkg-utils" remote="base" path="layers/oe-core-dl-4.1/git/git.yoctoproject.org.opkg-utils" bare="True"/>
     <project name="external/yocto/gitlab.freedesktop.org.libinput.libinput" remote="base" path="layers/oe-core-dl-4.1/git/gitlab.freedesktop.org.libinput.libinput.git" bare="True"/>
     <project name="external/yocto/github.com.anholt.libepoxy" remote="base" path="layers/oe-core-dl-4.1/git/github.com.anholt.libepoxy" bare="True"/>
+    <project name="external/yocto/gitlab.freedesktop.org.slirp.libslirp" remote="base" path="layers/oe-core-dl-4.1/git/gitlab.freedesktop.org.slirp.libslirp.git" bare="True"/>
