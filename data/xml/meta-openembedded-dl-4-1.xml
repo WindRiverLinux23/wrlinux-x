@@ -147,3 +147,4 @@
     <project name="external/yocto/github.com.libbpf.libbpf" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.libbpf.libbpf.git" bare="True"/>
     <project name="external/yocto/github.com.dsoprea.pyinotify" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.dsoprea.pyinotify.git" bare="True"/>
     <project name="external/yocto/github.com.freedesktop.polkit" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.freedesktop.polkit.git" bare="True"/>
+    <project name="external/yocto/github.com.benhoyt.inih" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.benhoyt.inih.git" bare="True"/>
