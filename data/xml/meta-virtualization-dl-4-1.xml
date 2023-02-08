@@ -180,3 +180,4 @@
     <project name="external/yocto/github.com.kubernetes-sigs.cri-tools" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.kubernetes-sigs.cri-tools.git" bare="True"/>
     <project name="external/yocto/github.com.opencontainers.image-tools" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.opencontainers.image-tools.git" bare="True"/>
     <project name="external/yocto/github.com.opencontainers.runtime-tools" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.opencontainers.runtime-tools.git" bare="True"/>
+    <project name="external/yocto/github.com.projectatomic.oci-systemd-hook" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.projectatomic.oci-systemd-hook" bare="True"/>
