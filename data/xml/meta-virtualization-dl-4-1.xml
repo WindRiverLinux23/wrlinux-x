@@ -183,3 +183,4 @@
     <project name="external/yocto/github.com.projectatomic.oci-systemd-hook" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.projectatomic.oci-systemd-hook" bare="True"/>
     <project name="external/yocto/github.com.kubernetes-sigs.cri-o" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.kubernetes-sigs.cri-o.git" bare="True"/>
     <project name="external/yocto/github.com.mikefarah.yq" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.mikefarah.yq" bare="True"/>
+    <project name="external/yocto/github.com.goccy.go-yaml" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.goccy.go-yaml" bare="True"/>
