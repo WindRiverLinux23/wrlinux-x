@@ -190,3 +190,4 @@
     <project name="external/overc/github.com.go-yaml.yaml" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.go-yaml.yaml.git" bare="True"/>
     <project name="external/yocto/github.com.golang.xerrors" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.golang.xerrors" bare="True"/>
     <project name="external/yocto/github.com.a8m.envsubst" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.a8m.envsubst" bare="True"/>
+    <project name="external/yocto/github.com.elliotchance.orderedmap" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.elliotchance.orderedmap" bare="True"/>
