@@ -186,3 +186,4 @@
     <project name="external/yocto/github.com.goccy.go-yaml" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.goccy.go-yaml" bare="True"/>
     <project name="external/yocto/github.com.alecthomas.participle" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.alecthomas.participle" bare="True"/>
     <project name="external/yocto/github.com.dimchansky.utfbom" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.dimchansky.utfbom" bare="True"/>
+    <project name="external/yocto/github.com.op.go-logging" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.op.go-logging.git" bare="True"/>
