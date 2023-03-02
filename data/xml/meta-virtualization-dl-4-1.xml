@@ -195,3 +195,4 @@
     <project name="external/yocto/github.com.jinzhu.copier" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.jinzhu.copier" bare="True"/>
     <project name="external/yocto/github.com.golang.text" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.golang.text" bare="True"/>
     <project name="external/yocto/github.com.pkg.diff" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.pkg.diff" bare="True"/>
+    <project name="external/overc/github.com.golang.net" remote="base" path="layers/meta-virtualization-dl-4.1/git/github.com.golang.net" bare="True"/>
