@@ -4,7 +4,6 @@
     <project name="external/yocto/git.kernel.org.pub.scm.boot.dracut.dracut" remote="base" path="layers/meta-openembedded-dl-4.1/git/git.kernel.org.pub.scm.boot.dracut.dracut.git" bare="True"/>
     <project name="external/yocto/github.com.rhboot.grubby" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.rhboot.grubby.git" bare="True"/>
     <project name="external/yocto/pagure.io.netcf" remote="base" path="layers/meta-openembedded-dl-4.1/git/pagure.io.netcf.git" bare="True"/>
-    <project name="external/yocto/github.com.dugsong.libdnet" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.dugsong.libdnet.git" bare="True"/>
     <project name="external/yocto/github.com.sctp.lksctp-tools" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.sctp.lksctp-tools.git" bare="True"/>
     <project name="external/yocto/github.com.LINBIT.drbd-utils" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.LINBIT.drbd-utils" bare="True"/>
     <project name="external/yocto/github.com.LINBIT.drbd-headers" remote="base" path="layers/meta-openembedded-dl-4.1/git/github.com.LINBIT.drbd-headers" bare="True"/>
