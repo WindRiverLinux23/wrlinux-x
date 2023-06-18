@@ -128,7 +128,6 @@
     <project name="external/yocto/git.linuxtv.org.v4l-utils" remote="base" path="layers/wrlinux-src-dl/git/git.linuxtv.org.v4l-utils.git" bare="True"/>
     <project name="external/yocto/gitlab.freedesktop.org.xorg.driver.xf86-video-ati" remote="base" path="layers/wrlinux-src-dl/git/gitlab.freedesktop.org.xorg.driver.xf86-video-ati.git" bare="True"/>
     <project name="external/yocto/github.com.blueman-project.blueman" remote="base" path="layers/wrlinux-src-dl/git/github.com.blueman-project.blueman.git" bare="True"/>
-    <project name="external/yocto/github.com.ipmitool.ipmitool" remote="base" path="layers/wrlinux-src-dl/git/github.com.ipmitool.ipmitool" bare="True"/>
     <project name="external/yocto/github.com.FRRouting.frr" remote="base" path="layers/wrlinux-src-dl/git/github.com.FRRouting.frr.git" bare="True"/>
     <project name="external/yocto/salsa.debian.org.debian.ifenslave" remote="base" path="layers/wrlinux-src-dl/git/salsa.debian.org.debian.ifenslave.git" bare="True"/>
     <project name="external/yocto/github.com.google.bloaty" remote="base" path="layers/wrlinux-src-dl/git/github.com.google.bloaty.git" bare="True"/>
@@ -145,7 +144,6 @@
     <project name="external/yocto/github.com.wkz.phytool" remote="base" path="layers/wrlinux-src-dl/git/github.com.wkz.phytool.git" bare="True"/>
     <project name="external/yocto/github.com.libbpf.libbpf" remote="base" path="layers/wrlinux-src-dl/git/github.com.libbpf.libbpf.git" bare="True"/>
     <project name="external/yocto/github.com.dsoprea.pyinotify" remote="base" path="layers/wrlinux-src-dl/git/github.com.dsoprea.pyinotify.git" bare="True"/>
-    <project name="external/yocto/github.com.freedesktop.polkit" remote="base" path="layers/wrlinux-src-dl/git/github.com.freedesktop.polkit.git" bare="True"/>
     <project name="external/yocto/github.com.benhoyt.inih" remote="base" path="layers/wrlinux-src-dl/git/github.com.benhoyt.inih.git" bare="True"/>
     <project name="external/yocto/git.kernel.org.pub.scm.linux.kernel.git.dhowells.keyutils" remote="base" path="layers/wrlinux-src-dl/git/git.kernel.org.pub.scm.linux.kernel.git.dhowells.keyutils.git" bare="True"/>
     <project name="external/yocto/github.com.ARMmbed.mbedtls" remote="base" path="layers/wrlinux-src-dl/git/github.com.ARMmbed.mbedtls.git" bare="True"/>
