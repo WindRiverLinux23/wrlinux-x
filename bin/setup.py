@@ -1118,7 +1118,8 @@ class Setup():
             # doesn't have to be in layerindex, just check and add the git
             # sources here.
             if self.dl_layers != -1 and not utils_setup.is_dl_layer(name):
-                xmlfile_list.append(os.path.join(self.xml_dir, '%s-dl.xml' % (name)))
+                xmlfile_dl = os.path.join(self.xml_dir, '%s-dl.xml' % (os.path.basename(url)))
+                xmlfile_list.append(xmlfile_dl)
             fxml.seek(0)
             fxml_lines = fxml.readlines()
             for xmlfile in xmlfile_list:
