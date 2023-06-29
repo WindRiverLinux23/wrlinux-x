@@ -1159,10 +1159,7 @@ class Setup():
                     url = vcs_url[len(self.remotes[remote]):]
                     url = url.strip('/')
 
-                    if utils_setup.is_dl_layer(layer['name']) and layer['name'] != "wrlinux-src-dl":
-                        path = 'layers/wrlinux-src-dl/' + "".join(vcs_url.split('/')[-1:])
-                    else:
-                        path = 'layers/' + "".join(url.split('/')[-1:])
+                    path = 'layers/' + "".join(url.split('/')[-1:])
 
                     entry = {
                            'name' : layer['name'],
