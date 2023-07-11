@@ -167,3 +167,4 @@
     <project name="external/yocto/gitlab.com.rossburton.python-unittest-automake-output" remote="base" path="layers/wrlinux-src-dl/git/gitlab.com.rossburton.python-unittest-automake-output" bare="True"/>
     <project name="external/yocto/github.com.NetworkConfiguration.dhcpcd" remote="base" path="layers/wrlinux-src-dl/git/github.com.NetworkConfiguration.dhcpcd" bare="True"/>
     <project name="external/yocto/anongit.freedesktop.org.git.xorg.driver.xf86-video-intel" remote="base" path="layers/wrlinux-src-dl/git/anongit.freedesktop.org.git.xorg.driver.xf86-video-intel" bare="True"/>
+    <project name="external/yocto/github.com.ahcbb6.baremetal-helloqemu" remote="base" path="layers/wrlinux-src-dl/git/github.com.ahcbb6.baremetal-helloqemu.git" bare="True"/>
