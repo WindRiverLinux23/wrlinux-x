@@ -447,8 +447,8 @@ def main():
 
         if found_oe_core_dl and (extra_dl_xmls - processed_xmls):
             for srcfile_dl in (extra_dl_xmls - processed_xmls):
-                # Strip "-dl.xml"
-                layer_name = os.path.basename(srcfile_dl)[0:-7]
+                # Strip ".xml"
+                layer_name = os.path.basename(srcfile_dl)[0:-4]
                 xml_dir = get_xml_dir(layer_name, dst_base_mirror)
                 xml_dst = xml_dest_dir(xml_dir, os.path.basename(srcfile_dl))
                 for name in transform_xml(srcfile_dl, xml_dst):
