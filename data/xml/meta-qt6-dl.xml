@@ -27,7 +27,6 @@
     <project name="external/qt/code.qt.io.qt.qtdatavis3d" remote="base" path="layers/wrlinux-src-dl/git/code.qt.io.qt.qtdatavis3d.git" bare="True"/>
     <project name="external/qt/code.qt.io.qt.qtdeviceutilities" remote="base" path="layers/wrlinux-src-dl/git/code.qt.io.qt.qtdeviceutilities.git" bare="True"/>
     <project name="external/qt/code.qt.io.qt.qtgraphs" remote="base" path="layers/wrlinux-src-dl/git/code.qt.io.qt.qtgraphs.git" bare="True"/>
-    <project name="external/qt/code.qt.io.qt.qtgrpc" remote="base" path="layers/wrlinux-src-dl/git/code.qt.io.qt.qtgrpc.git" bare="True"/>
     <project name="external/qt/code.qt.io.qt.qthttpserver" remote="base" path="layers/wrlinux-src-dl/git/code.qt.io.qt.qthttpserver.git" bare="True"/>
     <project name="external/qt/code.qt.io.qt.qtinterfaceframework" remote="base" path="layers/wrlinux-src-dl/git/code.qt.io.qt.qtinterfaceframework.git" bare="True"/>
     <project name="external/qt/code.qt.io.qt.qtlottie" remote="base" path="layers/wrlinux-src-dl/git/code.qt.io.qt.qtlottie.git" bare="True"/>
