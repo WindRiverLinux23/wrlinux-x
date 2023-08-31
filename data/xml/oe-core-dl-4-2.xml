@@ -169,4 +169,4 @@
     <project name="external/yocto/anongit.freedesktop.org.git.xorg.driver.xf86-video-intel" remote="base" path="layers/wrlinux-src-dl/git/anongit.freedesktop.org.git.xorg.driver.xf86-video-intel" bare="True"/>
     <project name="external/yocto/github.com.ahcbb6.baremetal-helloqemu" remote="base" path="layers/wrlinux-src-dl/git/github.com.ahcbb6.baremetal-helloqemu.git" bare="True"/>
     <project name="external/yocto/github.com.linux-ras.sysfsutils" remote="base" path="layers/wrlinux-src-dl/git/github.com.linux-ras.sysfsutils.git" bare="True"/>
-    <project name="external/yocto/github.com.libproxy.libproxy" remote="base" path="layers/oe-core-dl-4.2/git/github.com.libproxy.libproxy" bare="True"/>
+    <project name="external/yocto/github.com.libproxy.libproxy" remote="base" path="layers/wrlinux-src-dl/git/github.com.libproxy.libproxy" bare="True"/>
