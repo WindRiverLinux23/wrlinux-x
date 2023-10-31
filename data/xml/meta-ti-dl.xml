@@ -4,3 +4,4 @@
     <project name="external/yocto/git.ti.com.git.processor-firmware.ti-linux-firmware" remote="base" path="layers/wrlinux-src-dl/git/git.ti.com.git.processor-firmware.ti-linux-firmware.git" bare="True"/>
     <project name="external/yocto/git.ti.com.git.k3-image-gen.k3-image-gen" remote="base" path="layers/wrlinux-src-dl/git/git.ti.com.git.k3-image-gen.k3-image-gen.git" bare="True"/>
     <project name="external/yocto/git.ti.com.git.ti-u-boot.ti-u-boot" remote="base" path="layers/wrlinux-src-dl/git/git.ti.com.git.ti-u-boot.ti-u-boot.git" bare="True"/>
+    <project name="external/yocto/git.ti.com.git.security-development-tools.core-secdev-k3" remote="base" path="layers/wrlinux-src-dl/git/git.ti.com.git.security-development-tools.core-secdev-k3.git" bare="True"/>
