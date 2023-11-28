@@ -1,3 +1,3 @@
-<project name="external/yocto/github.com.linux4microchip.dt-overlay-mchp" remote="base" path="layers/wrlinux-src-dl/git/github.com/linux4microchip/dt-overlay-mchp.git" bare="True"/>
-<project name="external/yocto/github.com.polarfire-soc.hart-software-services" remote="base" path="layers/wrlinux-src-dl/git/github.com/polarfire-soc/hart-software-services.git" bare="True"/>
-<project name="external/yocto/github.com.polarfire-soc.u-boot" remote="base" path="layers/wrlinux-src-dl/git/github.com/polarfire-soc/u-boot.git" bare="True"/>
+<project name="external/yocto/github.com.linux4microchip.dt-overlay-mchp" remote="base" path="layers/wrlinux-src-dl/git/github.com.linux4microchip.dt-overlay-mchp.git" bare="True"/>
+<project name="external/yocto/github.com.polarfire-soc.hart-software-services" remote="base" path="layers/wrlinux-src-dl/git/github.com.polarfire-soc.hart-software-services.git" bare="True"/>
+<project name="external/yocto/github.com.polarfire-soc.u-boot" remote="base" path="layers/wrlinux-src-dl/git/github.com.polarfire-soc.u-boot.git" bare="True"/>
