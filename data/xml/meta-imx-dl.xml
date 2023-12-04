@@ -1,0 +1,1 @@
+    <project name="external/yocto/github.com.nxp-imx.imx-optee-os" remote="base" path="layers/wrlinux-src-dl/git/github.com.nxp-imx.imx-optee-os.git" bare="True"/>
