@@ -160,3 +160,4 @@
     <project name="external/yocto/github.com.linux-can.can-utils" remote="base" path="layers/wrlinux-src-dl/git/github.com.linux-can.can-utils.git" bare="True"/>
     <project name="external/yocto/github.com.nlohmann.json_test_data" remote="base" path="layers/wrlinux-src-dl/git/github.com.nlohmann.json_test_data.git" bare="True"/>
     <project name="external/yocto/github.com.nlohmann.json" remote="base" path="layers/wrlinux-src-dl/git/github.com.nlohmann.json.git" bare="True"/>
+    <project name="external/yocto/github.com.open-iscsi.open-isns" remote="base" path="layers/wrlinux-src-dl/git/github.com.open-iscsi.open-isns" bare="True"/>
