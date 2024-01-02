@@ -2,3 +2,4 @@
     <project name="external/yocto/github.com.OP-TEE.optee_os" remote="base" path="layers/wrlinux-src-dl/git/github.com.OP-TEE.optee_os.git" bare="True"/>
     <project name="external/yocto/github.com.Linaro.OpenCSD" remote="base" path="layers/wrlinux-src-dl/git/github.com.Linaro.OpenCSD.git" bare="True"/>
     <project name="external/yocto/github.com.nxp-auto-linux.optee_os" remote="base" path="layers/wrlinux-src-dl/git/github.com.nxp-auto-linux.optee_os" bare="True"/>
+    <project name="external/yocto/github.com.OP-TEE.optee_test" remote="base" path="layers/wrlinux-src-dl/git/github.com.OP-TEE.optee_test.git" bare="True"/>
