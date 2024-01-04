@@ -162,3 +162,4 @@
     <project name="external/yocto/github.com.nlohmann.json" remote="base" path="layers/wrlinux-src-dl/git/github.com.nlohmann.json.git" bare="True"/>
     <project name="external/yocto/github.com.open-iscsi.open-isns" remote="base" path="layers/wrlinux-src-dl/git/github.com.open-iscsi.open-isns" bare="True"/>
     <project name="external/yocto/github.com.open-iscsi.open-iscsi" remote="base" path="layers/wrlinux-src-dl/git/github.com.open-iscsi.open-iscsi" bare="True"/>
+    <project name="external/yocto/gitlab.freedesktop.org.mobile-broadband.libmbim" remote="base" path="layers/wrlinux-src-dl/git/gitlab.freedesktop.org.mobile-broadband.libmbim.git" bare="True"/>
