@@ -1,2 +1,1 @@
     <project name="external/yocto/github.com.dentonw.devil" remote="base" path="layers/wrlinux-src-dl/git/github.com.dentonw.devil.git" bare="True"/>
-    <project name="external/yocto/git.trustedfirmware.org.TF-A.trusted-firmware-a" remote="base" path="layers/wrlinux-src-dl/git/git.trustedfirmware.org.TF-A.trusted-firmware-a.git" bare="True"/>
