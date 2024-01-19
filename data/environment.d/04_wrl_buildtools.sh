@@ -49,6 +49,19 @@ buildtools_setup() {
 		BUILDTOOLSBRANCH="${BASEBRANCH}"
 	fi
 
+	# checking for centos7
+    # compiler-rt-native need host libstdc++ version be at least 7, the
+    # libstdc++ from buildtools-extended doesn't work because of clang.
+	if grep -q "^ID=\"centos\"" /etc/os-release \
+        && grep -q "^VERSION_ID=\"7\"" /etc/os-release ; then
+		gxx_cur_ver=$(g++ -dumpfullversion -dumpversion 2>/dev/null)
+		gxx_required_ver=7.1.0
+
+		if [ ! "$(printf '%s\n' "$gxx_required_ver" "$gxx_cur_ver" | sort -V | head -n1)" = "$gxx_required_ver" ]; then
+			echo -e  "\nWarning: host libstdc++ version should be at least 7, or compiler-rt-native may build failed. Recommend to install devtoolset-[7+]-gcc-c++, see https://centos.pkgs.org/7/centos-sclo-rh-x86_64/.\n"
+		fi
+    fi
+
 	#qt6 require at least gcc9+
 	gcc_cur_ver=$(gcc -dumpfullversion -dumpversion 2>/dev/null)
 	required_ver=9.3.1
