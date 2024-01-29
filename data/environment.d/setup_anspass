@@ -169,6 +169,8 @@ anspass_stop() {
 	if [ -n "${ANSPASS_PATH}" -a -n "${ANSPASS_TOKEN}" ]; then
 		echo "Stopping anspass..."
 		anspass-ctrl --quit >/dev/null 2>&1
+		unset GIT_ASKPASS
+		unset SSH_ASKPASS
 		unset ANSPASS_PATH
 		unset ANSPASS_TOKEN
 	fi
