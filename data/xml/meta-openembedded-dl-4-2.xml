@@ -166,3 +166,4 @@
     <project name="external/yocto/github.com.redis.hiredis" remote="base" path="layers/wrlinux-src-dl/git/github.com.redis.hiredis.git" bare="True"/>
     <project name="external/yocto/github.com.tanbro.pyyaml-include" remote="base" path="layers/wrlinux-src-dl/git/github.com.tanbro.pyyaml-include" bare="True"/>
     <project name="external/yocto/github.com.open-source-parsers.jsoncpp" remote="base" path="layers/wrlinux-src-dl/git/github.com.open-source-parsers.jsoncpp" bare="True"/>
+    <project name="external/yocto/github.com.storaged-project.libbytesize" remote="base" path="layers/meta-openembedded-dl-4.2/git/github.com.storaged-project.libbytesize" bare="True"/>
