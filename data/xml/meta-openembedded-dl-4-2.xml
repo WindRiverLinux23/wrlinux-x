@@ -167,3 +167,4 @@
     <project name="external/yocto/github.com.tanbro.pyyaml-include" remote="base" path="layers/wrlinux-src-dl/git/github.com.tanbro.pyyaml-include" bare="True"/>
     <project name="external/yocto/github.com.open-source-parsers.jsoncpp" remote="base" path="layers/wrlinux-src-dl/git/github.com.open-source-parsers.jsoncpp" bare="True"/>
     <project name="external/yocto/github.com.storaged-project.libbytesize" remote="base" path="layers/wrlinux-src-dl/git/github.com.storaged-project.libbytesize" bare="True"/>
+    <project name="external/yocto/github.com.dasbus-project.dasbus" remote="base" path="layers/wrlinux-src-dl/git/github.com.dasbus-project.dasbus.git" bare="True"/>
