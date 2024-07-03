@@ -6,7 +6,6 @@
     <project name="external/yocto/github.com.tchap.go-patricia" remote="base" path="layers/wrlinux-src-dl/git/github.com.tchap.go-patricia.git" bare="True"/>
     <project name="external/yocto/github.com.godbus.dbus" remote="base" path="layers/wrlinux-src-dl/git/github.com.godbus.dbus.git" bare="True"/>
     <project name="external/yocto/github.com.gorilla.context" remote="base" path="layers/wrlinux-src-dl/git/github.com.gorilla.context.git" bare="True"/>
-    <project name="external/yocto/github.com.codegangsta.cli" remote="base" path="layers/wrlinux-src-dl/git/github.com.codegangsta.cli.git" bare="True"/>
     <project name="external/yocto/github.com.docker.go-connections" remote="base" path="layers/wrlinux-src-dl/git/github.com.docker.go-connections.git" bare="True"/>
     <project name="external/yocto/github.com.docker.notary" remote="base" path="layers/wrlinux-src-dl/git/github.com.docker.notary.git" bare="True"/>
     <project name="external/yocto/github.com.aanand.compose-file" remote="base" path="layers/wrlinux-src-dl/git/github.com.aanand.compose-file.git" bare="True"/>
